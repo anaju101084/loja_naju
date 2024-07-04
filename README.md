@@ -1,2 +1,2 @@
-# loja_naju
-sistema web desenvolvido nas aulas da disciplina de programação web no campus de tb
+# INF3_A
+Sistema desenvolvido na disciplina de Programação Web I, para a turma "A".
